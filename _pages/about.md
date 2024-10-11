@@ -9,11 +9,24 @@ redirect_from:
 
 Pengfei Jia, Ph.D., associate professor and master's supervisor, is engaged in the theoretical and applied research of machine olfactory technology, involving the whole link from materials, devices, algorithms to systems. Postdoctoral fellow at Southwest University Applied Mathematics Mobile Station, short-term visiting scholar at Institute of Intelligent Agricultural Equipment of Zhejiang University and Monell-ZJGSU Sensory Science Laboratory in United States. Director of Power Equipment Sensing and Information Processing Research Office, Guangxi Key Laboratory of Intelligent Control and Operation and Maintenance of Electric Power Equipment. He has presided over or participated in the research and development of machine olfactory equipment for GIS insulation anomaly detection, air switch cabinet partial discharge detection, medical waste disposal supervision, bacterial infection detection, indoor toxic gas detection, PM2.5 detection, tobacco baking process control and citrus maturity detection. He has published more than 70 academic papers in domestic and foreign journals, authorized 11 Chinese invention patents, 1 Australian patent, 10 utility model patents, 15 software copyrights, and completed 2 scientific and technological achievements transformation (patent transfer and implementation).
 
-A data-driven personal website
+Main research directions
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The theoretical and application scenario research of intelligent olfactory (also known as computer olfaction, machine olfactory or electronic nose), from the research and development of materials, devices, algorithms to equipment, including:
+(1) High-voltage insulation technology direction:
+1) Development of gas-sensitive materials for the detection of landmark gases with abnormal insulation of air switchgear
+2) Development of gas-sensitive materials for the detection of iconic gases for GIS leakage and insulation anomalies
+3) Development of gas-sensitive materials for the detection of landmark gases for transformer insulation abnormalities
+3) Development of detection materials for new insulating gases
+(2) Dual-carbon direction: develop gas-sensitive materials for dual-carbon gas adsorption, conversion and sensing
+(3) Intelligent perception direction:
+1) Detection of abnormal landmark gases for insulation of power grid switchgear, including abnormal marker gases for air switchgear insulation, such as carbon monoxide, nitrogen oxides, ozone, etc.; SF6 switchgear is insulated with abnormal iconic gases such as sulfur dioxide, hydrogen sulfide, hydrogen fluoride, etc
+2) Correction and compensation of individual differences in metal oxide semiconductor gas sensors (algorithm level)
+3) Gas classification algorithm model
+4) Algorithm-based gas sensor drift correction (long-term drift, temperature drift)
+5) Identification of small samples, single samples, and no samples (GAN, transfer learning, semi-supervised learning)
+6) Mixture gas concentration prediction
+(4) Intersection direction:
+1) Use artificial intelligence (machine learning, deep learning) to assist in the design of gas-sensitive materials
 
 Getting started
 ======
