@@ -12,21 +12,21 @@ Pengfei Jia, Ph.D., associate professor and master's supervisor, is engaged in t
 Main research directions
 ======
 The theoretical and application scenario research of intelligent olfactory (also known as computer olfaction, machine olfactory or electronic nose), from the research and development of materials, devices, algorithms to equipment, including:  
-(1) High-voltage insulation technology direction:  
-1) Development of gas-sensitive materials for the detection of landmark gases with abnormal insulation of air switchgear  
-2) Development of gas-sensitive materials for the detection of iconic gases for GIS leakage and insulation anomalies  
-3) Development of gas-sensitive materials for the detection of landmark gases for transformer insulation abnormalities
-3) Development of detection materials for new insulating gases
-(2) Dual-carbon direction: develop gas-sensitive materials for dual-carbon gas adsorption, conversion and sensing
-(3) Intelligent perception direction:
-1) Detection of abnormal landmark gases for insulation of power grid switchgear, including abnormal marker gases for air switchgear insulation, such as carbon monoxide, nitrogen oxides, ozone, etc.; SF6 switchgear is insulated with abnormal iconic gases such as sulfur dioxide, hydrogen sulfide, hydrogen fluoride, etc
-2) Correction and compensation of individual differences in metal oxide semiconductor gas sensors (algorithm level)
-3) Gas classification algorithm model
-4) Algorithm-based gas sensor drift correction (long-term drift, temperature drift)
-5) Identification of small samples, single samples, and no samples (GAN, transfer learning, semi-supervised learning)
-6) Mixture gas concentration prediction
-(4) Intersection direction:
-1) Use artificial intelligence (machine learning, deep learning) to assist in the design of gas-sensitive materials
+1 High-voltage insulation technology direction:  
+(1) Development of gas-sensitive materials for the detection of landmark gases with abnormal insulation of air switchgear  
+(2) Development of gas-sensitive materials for the detection of iconic gases for GIS leakage and insulation anomalies  
+(3) Development of gas-sensitive materials for the detection of landmark gases for transformer insulation abnormalities  
+(4) Development of detection materials for new insulating gases  
+2 Dual-carbon direction: develop gas-sensitive materials for dual-carbon gas adsorption, conversion and sensing  
+3 Intelligent perception direction:  
+(1) Detection of abnormal landmark gases for insulation of power grid switchgear, including abnormal marker gases for air switchgear insulation, such as carbon monoxide, nitrogen oxides, ozone, etc.; SF6 switchgear is insulated with abnormal iconic gases such as sulfur dioxide, hydrogen sulfide, hydrogen fluoride, etc  
+(2) Correction and compensation of individual differences in metal oxide semiconductor gas sensors (algorithm level)  
+(3) Gas classification algorithm model  
+(4) Algorithm-based gas sensor drift correction (long-term drift, temperature drift)  
+(5) Identification of small samples, single samples, and no samples (GAN, transfer learning, semi-supervised learning)  
+(6) Mixture gas concentration prediction  
+4 Intersection direction:  
+(1) Use artificial intelligence (machine learning, deep learning) to assist in the design of gas-sensitive materials  
 
 Getting started
 ======
