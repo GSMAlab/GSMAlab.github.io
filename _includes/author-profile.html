@@ -37,8 +37,12 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}-->
       {% if author.email %}
-        <li><a {{ author.email }}<i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li>
+        <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+        {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+      </li>
       {% endif %}
+
       
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
