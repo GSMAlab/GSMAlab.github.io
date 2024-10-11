@@ -11,10 +11,10 @@ Pengfei Jia, Ph.D., associate professor and master's supervisor, is engaged in t
 
 Main research directions
 ======
-The theoretical and application scenario research of intelligent olfactory (also known as computer olfaction, machine olfactory or electronic nose), from the research and development of materials, devices, algorithms to equipment, including:
-(1) High-voltage insulation technology direction:
-1) Development of gas-sensitive materials for the detection of landmark gases with abnormal insulation of air switchgear
-2) Development of gas-sensitive materials for the detection of iconic gases for GIS leakage and insulation anomalies
+The theoretical and application scenario research of intelligent olfactory (also known as computer olfaction, machine olfactory or electronic nose), from the research and development of materials, devices, algorithms to equipment, including:  
+(1) High-voltage insulation technology direction:  
+1) Development of gas-sensitive materials for the detection of landmark gases with abnormal insulation of air switchgear  
+2) Development of gas-sensitive materials for the detection of iconic gases for GIS leakage and insulation anomalies  
 3) Development of gas-sensitive materials for the detection of landmark gases for transformer insulation abnormalities
 3) Development of detection materials for new insulating gases
 (2) Dual-carbon direction: develop gas-sensitive materials for dual-carbon gas adsorption, conversion and sensing
