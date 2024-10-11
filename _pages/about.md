@@ -28,14 +28,18 @@ The theoretical and application scenario research of intelligent olfactory (also
 **4.Intersection direction:**  
 (1) Use artificial intelligence (machine learning, deep learning) to assist in the design of gas-sensitive materials  
 
-Getting started
+Admissions Information（招生信息）
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+The team's research revolves around gas-sensitive materials and intelligent computing systems, and is engaged in scientific research in high-voltage insulating materials, intelligent perception, artificial intelligence, big data analysis, etc.  
+1. Electrical (Professional Master's Degree and Academic Master's Degree): in the direction of high-voltage insulating materials, research on gas-sensitive materials used for the detection of abnormal gases for high-voltage insulation, such as semiconductor doped materials for the analysis of gas sensing performance of abnormal gases (carbon monoxide, nitrogen oxides and ozone, etc.) for air switchgear insulation, abnormal gases for GIS equipment insulation (SF6 and decomposition products), abnormal overheating of cables, and abnormal insulation of transformers; Dual-carbon direction (the dual-carbon issue is an indicator that must be considered in power plants, especially thermal power plants, at this stage, in line with the national dual-carbon policy), and research on materials for dual-carbon gas adsorption, conversion and sensing; Development of materials for fault detection in energy storage lithium batteries.  
+2. Control engineering: intelligent perception direction, using machine smell, deep learning and other algorithm models to classify gases, predict concentration, identify small samples, identify individual differences, drift processing, etc.  
+3. Cross-direction (both electrical and control majors can be engaged in): use artificial intelligence (machine learning, deep learning) to assist in the design of gas-sensitive materials.  
+Students joining should ideally possess one or more of the following abilities or potentials:  
+(1) Machine learning, such as pattern recognition, concentration prediction, shallow networks (BP, RBF, SVM, etc.), deep learning (TCN, LSTM, GAN, RNN, CNN, etc.)  
+(2) Programming languages such as Python or Matlab for scientific research (TensorFlow, Pytorch, PaddlePaddle, etc.)  
+(3) Material Studio software (for gas-sensitive material calculation, DFT)  
+(4) Embedded hardware development and programming  
+If you do not have the above skills, but you think you have a strong learning ability and are willing to try to learn the above skills, you are also welcome to join the laboratory. We provide complete, systematic professional training to achieve AI-related knowledge from beginner to proficient (about one semester). Welcome all students who are interested in working in artificial intelligence-related fields in the future!
 
 Site-wide configuration
 ------
