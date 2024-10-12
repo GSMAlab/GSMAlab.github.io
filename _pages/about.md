@@ -78,34 +78,36 @@ Involved projects
 Key Achievements
 ------
 **Thesis**  
-1.Gas sensor data processing (including: machine learning, deep learning, etc.)  
-[1] Zhengyang Zhu, Haikui Ling, Yiyi Zhang, Jiefeng Liu, Feng Shuang, Min Xu, Pengfei Jia*, An empirical evaluation of meta residual network for classifying sensor drift samples, Sensors & Actuators: B. Chemical 416 (2024) 136057. DOI: 10.1016/j.snb.2024.136057  
-[2]Yanmei Zhang, Qingming Jiang, Min Xu, Yiyi Zhang, Jiefeng Liu, Pengfei Jia*, FTM-GCN: A novel technique for gas concentration predicting in space with sensor nodes，Sensors & Actuators B Chemical, 2024，399，134830. DOI: 10.1016/j.snb.2023.134830  
-[3]Xiaoyu Li, Qingming Jiang, Sen Ni, Yang Xu, Min Xu, Pengfei Jia*, An electronic nose for CO concentration prediction based on GL-TCN, Sensors & Actuators B Chemical, 2023, 387, 133821. DOI: 10.1016/j.snb.2023.133821  
-[4]Liwen Zeng, Yang Xu, Sen Ni, Min Xu, Pengfei Jia*, A mixed gas concentration regression prediction method for electronic nose based on two-channel TCN, Sensors & Actuators B Chemical, 2023, 382, 133528. DOI: 10.1016/j.snb.2023.133528.  
-[5]Sen Ni, Pengfei Jia*, Yang Xu, Liwen Zeng, Xiaoyu Li, Min Xu, Prediction of CO concentration in different conditions based on Gaussian-TCN, Sensors & Actuators B Chemical, 2023, 376, 133010. DOI: 10.1016/j.snb.2022.133010.  
-[6]Pengfei Jia, Fangzhou Meng, Huaisheng Cao, Shukai Duan, Xiaoyan Peng, Min Xu, Training technique of electronic nose using labeled and unlabeled samples based on multi-kernel LapSVM, Sensors & Actuators B Chemical, 2019, 294: 98-105. DOI: 10.1016/j.snb.2019.05.034.  
-[7]Hanxiao Luo, Pengfei Jia*, Siqi Qiao, Enhancing electronic nose performance based on a novel QPSO-RBM technique, Sensors & Actuators B Chemical, 2018, 259: 241-249. DOI: 10.1016/j.snb.2017.12.026.  
-[8]Xue Jiang, Pengfei Jia*, Rudan Luo, Bin Deng, Shukai Duan, Jia Yan, A novel electronic nose learning technique based on active learning: EQBC-RBFNN, Sensors & Actuators B Chemical, 2017, 249: 533-541. DOI: 10.1016/j.snb.2017.04.072.  
-[9]Pengfei Jia, Fengchun Tian, Qinghua He, Shu Fan, Junling Liu, Simon X. Yang, Feature extraction of wound infection data for electronic nose based on a novel weighted KPCA, Sensors & Actuators B Chemical, 2014, 201: 555-566. DOI: 10.1016/j.snb.2014.05.025.  
-[10]Huaisheng Cao, Pengfei Jia*, Duo Xu, Yuanjing Jiang, Siqi Qiao, Feature extraction of citrus Juice during storage for electronic nose based on cellular neural network, IEEE Sensors Journal, 2020，20 （7）: 3803-3812. DOI: 10.1109/JSEN.2019.2961135.  
-[11]Duo Xu, Pengfei Jia*, Huaisheng Cao, Wen Cao, Guocheng Wu, A novel technique solving shortages of low-concentration samples of electronic nose based on global and local features fusion, IEEE Sensors Journal, 2020，20（19）: 11412-11420. DOI: 10.1109/JSEN.2020.2998821.  
-[12]Pengfei Jia, Fengchun Tian, Shu Fan, Qinghua He, Jingwei Feng, Simon X. Yang, A novel sensor array and classifier optimization method of electronic nose based on enhanced quantum-behaved particle swarm optimization, Sensor Review, 2014, 34/3: 304-311. DOI: 10.1108/SR-02-2013-630.  
-[13]Guosheng Mao, Yanmei Zhang, Yang Xu, Xiaoyu Li, Min Xu, Yiyi Zhang, Pengfei Jia*, An electronic nose for harmful gas early detection based on a hybrid deep learning method H-CRNN, Microchemical Journal, 195 (2023) 109464. DOI: 10.1016/j.microc.2023.109464.  
-[14]Zhengyang Zhu, Qingming Jiang, Mingxiang Wang, Min Xu, Yiyi Zhang, Feng Shuang, Pengfei Jia*, A CO concentration prediction method for electronic nose based on TrellisNet with gated recurrent unit and dilated convolution, Microchemical Journal, 199 (2024):110014. DOI: 10.1016/j.microc.2024.110014.  
+1. Gas sensor data processing (including: machine learning, deep learning, etc.)  
+[1]Zhengyang Zhu, Haikui Ling, Yiyi Zhang, Jiefeng Liu, Feng Shuang, Min Xu, Pengfei Jia*, An empirical evaluation of meta residual network for classifying sensor drift samples, *Sensors & Actuators: B. Chemical* 416 (2024) 136057. DOI: 10.1016/j.snb.2024.136057  
+[2]Yanmei Zhang, Qingming Jiang, Min Xu, Yiyi Zhang, Jiefeng Liu, Pengfei Jia*, FTM-GCN: A novel technique for gas concentration predicting in space with sensor nodes, *Sensors & Actuators B Chemical*, 2024, 399, 134830. DOI: 10.1016/j.snb.2023.134830  
+[3]Xiaoyu Li, Qingming Jiang, Sen Ni, Yang Xu, Min Xu, Pengfei Jia*, An electronic nose for CO concentration prediction based on GL-TCN, *Sensors & Actuators B Chemical*, 2023, 387, 133821. DOI: 10.1016/j.snb.2023.133821  
+[4]Liwen Zeng, Yang Xu, Sen Ni, Min Xu, Pengfei Jia*, A mixed gas concentration regression prediction method for electronic nose based on two-channel TCN, *Sensors & Actuators B Chemical*, 2023, 382, 133528. DOI: 10.1016/j.snb.2023.133528.  
+[5]Sen Ni, Pengfei Jia*, Yang Xu, Liwen Zeng, Xiaoyu Li, Min Xu, Prediction of CO concentration in different conditions based on Gaussian-TCN, *Sensors & Actuators B Chemical*, 2023, 376, 133010. DOI: 10.1016/j.snb.2022.133010.  
+[6]Pengfei Jia, Fangzhou Meng, Huaisheng Cao, Shukai Duan, Xiaoyan Peng, Min Xu, Training technique of electronic nose using labeled and unlabeled samples based on multi-kernel LapSVM, *Sensors & Actuators B Chemical*, 2019, 294: 98-105. DOI: 10.1016/j.snb.2019.05.034.  
+[7]Hanxiao Luo, Pengfei Jia*, Siqi Qiao, Enhancing electronic nose performance based on a novel QPSO-RBM technique, *Sensors & Actuators B Chemical*, 2018, 259: 241-249. DOI: 10.1016/j.snb.2017.12.026.  
+[8]Xue Jiang, Pengfei Jia*, Rudan Luo, Bin Deng, Shukai Duan, Jia Yan, A novel electronic nose learning technique based on active learning: EQBC-RBFNN, *Sensors & Actuators B Chemical*, 2017, 249: 533-541. DOI: 10.1016/j.snb.2017.04.072.  
+[9]Pengfei Jia, Fengchun Tian, Qinghua He, Shu Fan, Junling Liu, Simon X. Yang, Feature extraction of wound infection data for electronic nose based on a novel weighted KPCA, *Sensors & Actuators B Chemical*, 2014, 201: 555-566. DOI: 10.1016/j.snb.2014.05.025.  
+[10]Huaisheng Cao, Pengfei Jia*, Duo Xu, Yuanjing Jiang, Siqi Qiao, Feature extraction of citrus Juice during storage for electronic nose based on cellular neural network, *IEEE Sensors Journal*, 2020, 20 (7): 3803-3812. DOI: 10.1109/JSEN.2019.2961135.  
+[11]Duo Xu, Pengfei Jia*, Huaisheng Cao, Wen Cao, Guocheng Wu, A novel technique solving shortages of low-concentration samples of electronic nose based on global and local features fusion, *IEEE Sensors Journal*, 2020, 20(19): 11412-11420. DOI: 10.1109/JSEN.2020.2998821.  
+[12]Pengfei Jia, Fengchun Tian, Shu Fan, Qinghua He, Jingwei Feng, Simon X. Yang, A novel sensor array and classifier optimization method of electronic nose based on enhanced quantum-behaved particle swarm optimization, *Sensor Review*, 2014, 34/3: 304-311. DOI: 10.1108/SR-02-2013-630.  
+[13]Guosheng Mao, Yanmei Zhang, Yang Xu, Xiaoyu Li, Min Xu, Yiyi Zhang, Pengfei Jia*, An electronic nose for harmful gas early detection based on a hybrid deep learning method H-CRNN, *Microchemical Journal*, 195 (2023) 109464. DOI: 10.1016/j.microc.2023.109464.  
+[14]Zhengyang Zhu, Qingming Jiang, Mingxiang Wang, Min Xu, Yiyi Zhang, Feng Shuang, Pengfei Jia*, A CO concentration prediction method for electronic nose based on TrellisNet with gated recurrent unit and dilated convolution, *Microchemical Journal*, 199 (2024):110014. DOI: 10.1016/j.microc.2024.110014.
+
 2.Calculation of high-voltage insulating gas-sensitive materials  
-[1]Mingxiang Wang, Qingbin Zeng, Jianjun Cao, Dachang Chen, Yiyi Zhang, Jiefeng Liu, and Pengfei Jia*, Highly Sensitive Gas Sensor for Detection of Air Decomposition Pollutant (CO, NOx): Popular Metal Oxide (ZnO, TiO2)‑Doped MoS2 Surface, ACS Applied Materials & Interfaces, 2024, 16, 3, 3674–3684. DOI: 10.1021/acsami.3c15103.  
-[2]Mingxiang Wang, Dachang Chen, Pengfei Jia*, Gas Sensitive Analysis of Composite MoS2(001) Surface to Air Discharge Products: A DFT Study, IEEE Sensors Journal. DOI: 10.1109/JSEN.2023.3305335.  
-[3]Mingxiang Wang, Jianjun Cao, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia*，Crn (n=1–4) clustered (8, 0) single-walled CNT: Comparison of gas-sensitive properties to air discharge pollutants (CO, NOx)，Surfaces and Interfaces 2024，44，103619. DOI: 10.1016/j.surfin.2023.103619.  
-[4]Mingxiang Wang, Dachang Chen, Pengfei Jia*, Adsorption and sensing performances of air decomposition components(CO, NOx) on Cr modified graphene surface, Inorganic Chemistry Communications, 157 (2023) 111447. DOI: 10.1016/j.inoche.2023.111447.  
-[5]Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia*, CoO-SnSe monolayer: A high potential candidate for SF6 characteristic
-decomposition gas adsorption and detection, Colloids and Surfaces A: Physicochemical and Engineering Aspects 688 (2024) 133671.DOI:10.1016/j.colsurfa.2024.133671.  
-[6]Pengfei Jia, Mingxiang Wang*, Changyou Ma, Dachang Chen, Yiyi Zhang, Jiefeng Liu, Quantum-level investigation of air decomposed pollutants gas sensor (Pd-modified g-C3N4) influenced by micro-water content, Chemosphere 358 (2024) 142198. DOI: 10.1016/j.chemosphere.2024.142198.  
-[7]Pengfei Jia, Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Exploration of SF6 and its decomposed gases in adsorption and sensing (four modified WSe2 monolayers at quantum level), Surfaces and Interfaces 51 (2024) 104606. DOI: 10.1016/j.surfin.2024.104606.  
+[1]Mingxiang Wang, Qingbin Zeng, Jianjun Cao, Dachang Chen, Yiyi Zhang, Jiefeng Liu, and Pengfei Jia*, Highly Sensitive Gas Sensor for Detection of Air Decomposition Pollutant (CO, NOx): Popular Metal Oxide (ZnO, TiO2)-Doped MoS2 Surface, *ACS Applied Materials & Interfaces*, 2024, 16, 3, 3674–3684. DOI: 10.1021/acsami.3c15103.  
+[2]Mingxiang Wang, Dachang Chen, Pengfei Jia*, Gas Sensitive Analysis of Composite MoS2(001) Surface to Air Discharge Products: A DFT Study, *IEEE Sensors Journal*. DOI: 10.1109/JSEN.2023.3305335.  
+[3]Mingxiang Wang, Jianjun Cao, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia*, Crn (n=1–4) clustered (8, 0) single-walled CNT: Comparison of gas-sensitive properties to air discharge pollutants (CO, NOx), *Surfaces and Interfaces*, 2024, 44, 103619. DOI: 10.1016/j.surfin.2023.103619.  
+[4]Mingxiang Wang, Dachang Chen, Pengfei Jia*, Adsorption and sensing performances of air decomposition components (CO, NOx) on Cr modified graphene surface, *Inorganic Chemistry Communications*, 157 (2023) 111447. DOI: 10.1016/j.inoche.2023.111447.  
+[5]Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia*, CoO-SnSe monolayer: A high potential candidate for SF6 characteristic decomposition gas adsorption and detection, *Colloids and Surfaces A: Physicochemical and Engineering Aspects*, 688 (2024) 133671. DOI: 10.1016/j.colsurfa.2024.133671.  
+[6]Pengfei Jia, Mingxiang Wang*, Changyou Ma, Dachang Chen, Yiyi Zhang, Jiefeng Liu, Quantum-level investigation of air decomposed pollutants gas sensor (Pd-modified g-C3N4) influenced by micro-water content, *Chemosphere*, 358 (2024) 142198. DOI: 10.1016/j.chemosphere.2024.142198.  
+[7]Pengfei Jia, Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Exploration of SF6 and its decomposed gases in adsorption and sensing (four modified WSe2 monolayers at quantum level), *Surfaces and Interfaces*, 51 (2024) 104606. DOI: 10.1016/j.surfin.2024.104606.
+
 **Book**  
-*The Theory and Application of Machine Olfaction Technology*, Shaanxi Science and Technology Press, July 2022  
-*Exploring Technology through Hands-on Projects*, Tianjin Science and Technology Press, December 2018  
-*Recent Advances in Machine learning and Computational Intelligence*, Applied Science, 2023.4  
+- *The Theory and Application of Machine Olfaction Technology*, Shaanxi Science and Technology Press, July 2022  
+- *Exploring Technology through Hands-on Projects*, Tianjin Science and Technology Press, December 2018  
+- *Recent Advances in Machine Learning and Computational Intelligence*, Applied Science, April 2023
+
 **Patent**  
 [1]Supervised Explicit Manifold Learning Algorithm-Based Data Mining Method for Electronic Nose, Patent No.: 2012103825859  
 [2]Electronic Nose Parameter Synchronization Optimization Algorithm Based on Improved Quantum Particle Swarm Algorithm, Patent No.: 2015100140514  
@@ -121,12 +123,27 @@ decomposition gas adsorption and detection, Colloids and Surfaces A: Physicochem
 
 
 
-How to edit your site's GitHub repository
+Academic part-time
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+1. Member of the Youth Work Committee of the Chinese Association for Artificial Intelligence, Member of the Urban Brain Special Committee of the China Command and Control Society, Member of the Surface Mount and Micro-Assembly Technology (SMT/MPT) Special Committee of the Chongqing Institute of Electronics  
+2. Editorial Board Member of *Advances in Computer and Autonomous Intelligence Research*, Youth Editorial Board Member of *Power Information and Communication Technology*, Academic Committee Member of Wizer Publishing Group (Singapore)  
+3. Program Committee Member (PC) of the Fifth, Sixth, and Seventh Asian Conference on Artificial Intelligence  
+4. Reviewer for the National Natural Science Foundation, Expert for the Ministry of Education Science and Technology Development Center's New Generation Information Technology Innovation Project, Reviewer for the Wu Wenjun Artificial Intelligence Science and Technology Award  
+5. Reviewer for Guangxi Science and Technology Projects, Expert in the Jiangxi Provincial Technology Expert Database, Expert in the Hebei Provincial Technology Expert Database, Reviewer for Guangzhou Science and Technology Projects, Expert in Shapingba District, Chongqing, Guangxi Rural Science and Technology Special Commissioner, Enterprise Technology Instructor in Xixiangtang District, Nanning  
+6. Intel FPGA China Innovation Technology Lecturer  
+7. Expert in Zhongda Consulting Group's Expert Database  
+8. Associate Researcher at Yuanwang Think Tank  
+9. Fourth Batch Expert of the Guangxi Standardization Association  
+10. Online Judge for the National College Mobile Internet Application Development Innovation Competition (2017, Fourth Edition), Judge for the China Mobile Internet of Things Maker Marathon Competition Chongqing Division Finals (2019 and 2020)  
+11. Expert for the Undergraduate Thesis (Design) Review and Evaluation in Guangxi Zhuang Autonomous Region  
+12. Expert in the Expert Database of Dongguan Artificial Intelligence Industry Association  
+13. Expert in the Suzhou Independent Innovation Service Supermarket Lecturer Database (Super Lecturer Program)  
+14. External Supervisor for Master's Students at University of Electronic Science and Technology of China, External Supervisor for Undergraduates and Postgraduates at Xi'an Jiaotong-Liverpool University, External Supervisor for Undergraduates at The Chinese University of Hong Kong, Shenzhen, External Supervisor for Postgraduates at Dongguan University of Technology  
+15. Judge for the Teaching Skills Examination and Evaluation of Teachers' Qualifications in Higher Education Institutions in Guangxi (2021, 2022, 2023)  
+16. Guest Editor of the Applied Science Special Issue “Recent Advances in Machine Learning and Computational Intelligence”  
+17. Permanent Review Editor for *Frontiers in Chemistry*  
+18. Member of the Editorial Board of *Symmetry* Journal  
+19. Reviewer for Journals: *Sensors and Actuators B: Chemical*, *IEEE Transactions on Instrumentation and Measurement*, *IEEE Sensor Journal*, *Scientific Reports*, *Journal of King Saud University-Computer and Information Sciences*, *International Journal for Light and Electron Optics*, *Sensing and Bio-sensing Research*, *Journal of Supercomputing*, *Journal of Personalized Medicine*, *Sensors*, *Sensor Review*, *CMIR*, *ASJ*, *International Journal of Food Engineering*, *Mathematics*, *Life*, *Shenyang University of Technology Journal*, *CAAI Transactions on Intelligence Technology*, *Heliyon*, *Journal of Computational Science*
 
 For more info
 ------
