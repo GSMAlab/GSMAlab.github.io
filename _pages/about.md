@@ -41,13 +41,38 @@ Students joining should ideally possess one or more of the following abilities o
 (4) Embedded hardware development and programming  
 If you do not have the above skills, but you think you have a strong learning ability and are willing to try to learn the above skills, you are also welcome to join the laboratory. We provide complete, systematic professional training to achieve AI-related knowledge from beginner to proficient (about one semester). Welcome all students who are interested in working in artificial intelligence-related fields in the future!
 
-Site-wide configuration
+Hosted projects
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[1] National Natural Science Foundation of China, Research on Electronic Nose Dynamic Temperature Modulation Sensing System and Intelligent Algorithm for Early Diagnosis of Wound Infection (61906160), 2020.01-2022.12  
+[2] Chongqing Basic Frontiers and Exploration General Project, Research on Dynamic Sensing Systems for Early Wound Infection Diagnosis (cstc2018jcyjAX0567), 2019.01-2021.12  
+[3] The 60th batch of China Postdoctoral Fund General Project, Research on Early Diagnosis Technology of Human Trauma Infection Based on Temperature Modulation Sensing System (2016M602630), 2016.09-2018.05  
+[4] Fundamental Research Funds for the Central Universities, Research on New High-precision Electronic Nose Technology for Bacterial Detection (XDJK2015C073), 2015.04-2017.04  
+[5] Southwest University Doctoral Fund (including Talent Introduction Program), Research on Early Diagnosis of Trauma Infection Based on Dynamic Sensing Technology (SWU115009), 2015.05-2016.12  
+[6] Sichuan Provincial Key Laboratory of Data Recovery, Research on Early Diagnosis of Trauma Infection Based on Temperature Modulation Sensing System (DRN19015), 2019.09-2021.08  
+[7] Nuclear Waste and Environmental Safety National Defense Key Discipline Laboratory Open Fund Project, Research on Detection Method of Radioactive Dust Contamination in Fruits and Melons Based on Machine Sense of Smell (19KFHK03), 2020.1-2021.12  
+[8] State Key Laboratory of Trauma, Burns and Compound Injuries, Research on Early Diagnosis Technology of Human Trauma Based on Artificial Intelligence and Electronic Nose (SKLKF202004), 2021.01-2022.12  
+[9] Chongqing Young Eagle Program Research Project, Indoor Air Quality Measurement and Control System Based on Internet of Things and Electronic Nose (CY200225), 2020.06-2021.05  
+[10] Guangxi University "High-level Talents" Introduction and Research Start-up Project, 2021.05-2024.04  
+[11] Guangxi University Achievement Transformation Project, Patent Transfer "Electric Plug Small Smoke Detector", 2023.04  
+[12] Guangxi University Achievement Transformation Project, Patent Transfer "A Distributed Machine Olfactory System Based on Edge Computing Platform", 2024.05  
 
-Create content & metadata
+Involved projects
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[1] National Key R&D Program of Intelligent Robots, R&D and Application of Laser Blanking and 3D Cutting System for Automotive Sheet Robot (2018YEB1306600)  
+[2] National International Science and Technology Cooperation Special Project, Cooperative Research and Development of Medical Intelligent Electronic Nose for Rapid Screening of Bacterial Infections (2014DFA31560)  
+[3] Chongqing Natural Science Foundation Key Project, Research on Human Trauma Response Odor Pattern Recognition Algorithm Based on Electronic Nose Technology (CSTC2009BA2021)  
+[4] Research on Electronic Nose Technology Based on Massive Parallel Broad-spectrum Optical Microarrays (20120191110023)  
+[5] Chongqing Science and Technology Talent Training Program (New Product R&D Team) Project, Portable PM2.5 and Air Quality Detector (CSTC2013KJRC-QNRC40012)  
+[6] Chongqing University Fundamental Research Business Fund, Research on Medical Electronic Nose Intelligent Algorithm for Outstanding Freshman Scientific Research Cultivation Project (CDJXS12161102)  
+[7] The 1st Chongqing University Graduate Interdisciplinary Platform Experimental Research Pilot Project, Online Gas Detection and Analysis System Based on Electrochemical Sensing Technology, 2012.01.01-2012.12.31  
+[8] Fundamental Research Funds for the Central Universities, Development of Visual Gas Sensors (XDJK2015C076), 2015.05.01-2016.12.31  
+[9] Fundamental Research Funds for the Central Universities, Research on Brain-like Intelligence and Micro-Nano Functional Devices (XDJK2017A005), 2017.03.01-2019.12.01  
+[10] Key Project of Fundamental Research Funds for the Central Universities, Research on Distributed Multi-task Estimation Algorithms in Wireless Sensor Networks (XDJK2017B053), 2017.03.20-2018.12.31  
+[11] Fundamental Research Funds for the Central Universities, Research on the Resistance Mechanism of Multilayer Membrane Memristors Based on STT Effect (XDJK2018C024), 2018.4.12-2020.12.31  
+[12] National Natural Science Foundation of China Youth Project, Band Manipulation and Light-Assisted Sensitization Mechanism of ZnO Quantum Dot/MoS2 Nanowall Composite Gas Sensitive Materials (61804127), 2019.01.01-2021.12.31  
+[13] National Natural Science Foundation of China, Research on Key Issues of Guidance System for the Blind Based on Multi-mode Perception and Mobile Internet Collaboration (61672436), 2017.01-2020.12  
+[14] Guangdong Provincial Department of Science and Technology Novel Coronavirus Infection Prevention and Control Technology and Products, Integrated Small Medical Waste In-situ Harmless Rapid Disposal Complete Set of Devices and Methods  
+
 
 **Markdown generator**
 
