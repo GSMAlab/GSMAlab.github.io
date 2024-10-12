@@ -78,7 +78,7 @@ Involved projects
 Key Achievements
 ------
 **Thesis**  
-1. Gas sensor data processing (including: machine learning, deep learning, etc.)  
+1.Gas sensor data processing (including: machine learning, deep learning, etc.)  
 [1]Zhengyang Zhu, Haikui Ling, Yiyi Zhang, Jiefeng Liu, Feng Shuang, Min Xu, Pengfei Jia*, An empirical evaluation of meta residual network for classifying sensor drift samples, *Sensors & Actuators: B. Chemical* 416 (2024) 136057. DOI: 10.1016/j.snb.2024.136057  
 [2]Yanmei Zhang, Qingming Jiang, Min Xu, Yiyi Zhang, Jiefeng Liu, Pengfei Jia*, FTM-GCN: A novel technique for gas concentration predicting in space with sensor nodes, *Sensors & Actuators B Chemical*, 2024, 399, 134830. DOI: 10.1016/j.snb.2023.134830  
 [3]Xiaoyu Li, Qingming Jiang, Sen Ni, Yang Xu, Min Xu, Pengfei Jia*, An electronic nose for CO concentration prediction based on GL-TCN, *Sensors & Actuators B Chemical*, 2023, 387, 133821. DOI: 10.1016/j.snb.2023.133821  
