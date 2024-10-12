@@ -125,25 +125,25 @@ Key Achievements
 
 Academic part-time
 ------
-1. Member of the Youth Work Committee of the Chinese Association for Artificial Intelligence, Member of the Urban Brain Special Committee of the China Command and Control Society, Member of the Surface Mount and Micro-Assembly Technology (SMT/MPT) Special Committee of the Chongqing Institute of Electronics  
-2. Editorial Board Member of *Advances in Computer and Autonomous Intelligence Research*, Youth Editorial Board Member of *Power Information and Communication Technology*, Academic Committee Member of Wizer Publishing Group (Singapore)  
-3. Program Committee Member (PC) of the Fifth, Sixth, and Seventh Asian Conference on Artificial Intelligence  
-4. Reviewer for the National Natural Science Foundation, Expert for the Ministry of Education Science and Technology Development Center's New Generation Information Technology Innovation Project, Reviewer for the Wu Wenjun Artificial Intelligence Science and Technology Award  
-5. Reviewer for Guangxi Science and Technology Projects, Expert in the Jiangxi Provincial Technology Expert Database, Expert in the Hebei Provincial Technology Expert Database, Reviewer for Guangzhou Science and Technology Projects, Expert in Shapingba District, Chongqing, Guangxi Rural Science and Technology Special Commissioner, Enterprise Technology Instructor in Xixiangtang District, Nanning  
-6. Intel FPGA China Innovation Technology Lecturer  
-7. Expert in Zhongda Consulting Group's Expert Database  
-8. Associate Researcher at Yuanwang Think Tank  
-9. Fourth Batch Expert of the Guangxi Standardization Association  
-10. Online Judge for the National College Mobile Internet Application Development Innovation Competition (2017, Fourth Edition), Judge for the China Mobile Internet of Things Maker Marathon Competition Chongqing Division Finals (2019 and 2020)  
-11. Expert for the Undergraduate Thesis (Design) Review and Evaluation in Guangxi Zhuang Autonomous Region  
-12. Expert in the Expert Database of Dongguan Artificial Intelligence Industry Association  
-13. Expert in the Suzhou Independent Innovation Service Supermarket Lecturer Database (Super Lecturer Program)  
-14. External Supervisor for Master's Students at University of Electronic Science and Technology of China, External Supervisor for Undergraduates and Postgraduates at Xi'an Jiaotong-Liverpool University, External Supervisor for Undergraduates at The Chinese University of Hong Kong, Shenzhen, External Supervisor for Postgraduates at Dongguan University of Technology  
-15. Judge for the Teaching Skills Examination and Evaluation of Teachers' Qualifications in Higher Education Institutions in Guangxi (2021, 2022, 2023)  
-16. Guest Editor of the Applied Science Special Issue “Recent Advances in Machine Learning and Computational Intelligence”  
-17. Permanent Review Editor for *Frontiers in Chemistry*  
-18. Member of the Editorial Board of *Symmetry* Journal  
-19. Reviewer for Journals: *Sensors and Actuators B: Chemical*, *IEEE Transactions on Instrumentation and Measurement*, *IEEE Sensor Journal*, *Scientific Reports*, *Journal of King Saud University-Computer and Information Sciences*, *International Journal for Light and Electron Optics*, *Sensing and Bio-sensing Research*, *Journal of Supercomputing*, *Journal of Personalized Medicine*, *Sensors*, *Sensor Review*, *CMIR*, *ASJ*, *International Journal of Food Engineering*, *Mathematics*, *Life*, *Shenyang University of Technology Journal*, *CAAI Transactions on Intelligence Technology*, *Heliyon*, *Journal of Computational Science*
+1.Member of the Youth Work Committee of the Chinese Association for Artificial Intelligence, Member of the Urban Brain Special Committee of the China Command and Control Society, Member of the Surface Mount and Micro-Assembly Technology (SMT/MPT) Special Committee of the Chongqing Institute of Electronics  
+2.Editorial Board Member of *Advances in Computer and Autonomous Intelligence Research*, Youth Editorial Board Member of *Power Information and Communication Technology*, Academic Committee Member of Wizer Publishing Group (Singapore)  
+3.Program Committee Member (PC) of the Fifth, Sixth, and Seventh Asian Conference on Artificial Intelligence  
+4.Reviewer for the National Natural Science Foundation, Expert for the Ministry of Education Science and Technology Development Center's New Generation Information Technology Innovation Project, Reviewer for the Wu Wenjun Artificial Intelligence Science and Technology Award  
+5.Reviewer for Guangxi Science and Technology Projects, Expert in the Jiangxi Provincial Technology Expert Database, Expert in the Hebei Provincial Technology Expert Database, Reviewer for Guangzhou Science and Technology Projects, Expert in Shapingba District, Chongqing, Guangxi Rural Science and Technology Special Commissioner, Enterprise Technology Instructor in Xixiangtang District, Nanning  
+6.Intel FPGA China Innovation Technology Lecturer  
+7.Expert in Zhongda Consulting Group's Expert Database  
+8.Associate Researcher at Yuanwang Think Tank  
+9.Fourth Batch Expert of the Guangxi Standardization Association  
+10.Online Judge for the National College Mobile Internet Application Development Innovation Competition (2017, Fourth Edition), Judge for the China Mobile Internet of Things Maker Marathon Competition Chongqing Division Finals (2019 and 2020)  
+11.Expert for the Undergraduate Thesis (Design) Review and Evaluation in Guangxi Zhuang Autonomous Region  
+12.Expert in the Expert Database of Dongguan Artificial Intelligence Industry Association  
+13.Expert in the Suzhou Independent Innovation Service Supermarket Lecturer Database (Super Lecturer Program)  
+14.External Supervisor for Master's Students at University of Electronic Science and Technology of China, External Supervisor for Undergraduates and Postgraduates at Xi'an Jiaotong-Liverpool University, External Supervisor for Undergraduates at The Chinese University of Hong Kong, Shenzhen, External Supervisor for Postgraduates at Dongguan University of Technology  
+15.Judge for the Teaching Skills Examination and Evaluation of Teachers' Qualifications in Higher Education Institutions in Guangxi (2021, 2022, 2023)  
+16.Guest Editor of the Applied Science Special Issue “Recent Advances in Machine Learning and Computational Intelligence”  
+17.Permanent Review Editor for *Frontiers in Chemistry*  
+18.Member of the Editorial Board of *Symmetry* Journal  
+19.Reviewer for Journals: *Sensors and Actuators B: Chemical*, *IEEE Transactions on Instrumentation and Measurement*, *IEEE Sensor Journal*, *Scientific Reports*, *Journal of King Saud University-Computer and Information Sciences*, *International Journal for Light and Electron Optics*, *Sensing and Bio-sensing Research*, *Journal of Supercomputing*, *Journal of Personalized Medicine*, *Sensors*, *Sensor Review*, *CMIR*, *ASJ*, *International Journal of Food Engineering*, *Mathematics*, *Life*, *Shenyang University of Technology Journal*, *CAAI Transactions on Intelligence Technology*, *Heliyon*, *Journal of Computational Science*
 
 For more info
 ------
