@@ -1,1 +1,27 @@
+## 学生信息展示
+
+<div style="display: flex; flex-wrap: wrap;">
+
+<div style="flex: 1; margin: 20px; text-align: center;">
+    <img src="/images/stu_wangmingxiang.jpg" alt="Student 1" style="width:150px;height:150px;border-radius:50%;">
+    <h3>学生姓名: 王明祥</h3>
+    <p><strong>获奖情况：</strong>2023年最佳研究生奖</p>
+    <p><strong>论文发表：</strong><a href="https://example.com/paper1">《计算机视觉中的深度学习》</a></p>
+</div>
+
+<div style="flex: 1; margin: 20px; text-align: center;">
+    <img src="/path/to/student2_image.jpg" alt="Student 2" style="width:150px;height:150px;border-radius:50%;">
+    <h3>学生姓名: 李四</h3>
+    <p><strong>获奖情况：</strong>2022年科技创新奖</p>
+    <p><strong>论文发表：</strong><a href="https://example.com/paper2">《机器学习在自然语言处理中的应用》</a></p>
+</div>
+
+<div style="flex: 1; margin: 20px; text-align: center;">
+    <img src="/path/to/student3_image.jpg" alt="Student 3" style="width:150px;height:150px;border-radius:50%;">
+    <h3>学生姓名: 王五</h3>
+    <p><strong>获奖情况：</strong>2021年优秀论文奖</p>
+    <p><strong>论文发表：</strong><a href="https://example.com/paper3">《人工智能对医疗影像分析的影响》</a></p>
+</div>
+
+</div>
 
