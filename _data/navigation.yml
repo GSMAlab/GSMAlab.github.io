@@ -17,8 +17,8 @@ main:
   # - title: "Students"
   #   url: /portfolio/
         
-  - title: "Thesis"
-    url: /year-archive/
+  # - title: "Thesis"
+  #   url: /year-archive/
     
   - title: "Projects"
     url: /cv/
