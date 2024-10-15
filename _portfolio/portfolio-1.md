@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Mingxiang Wang"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/stu_wangmingxiang.png'>"
 collection: portfolio
 ---
