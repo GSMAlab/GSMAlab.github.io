@@ -1,4 +1,10 @@
 ## 学生信息展示
+---
+layout: portfolio
+title: "Students Projects"
+date: 2024-10-15
+---
+
 
 <div style="display: flex; flex-wrap: wrap;">
 
