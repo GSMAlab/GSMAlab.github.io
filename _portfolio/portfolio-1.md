@@ -1,6 +1,8 @@
 ---
 title: "Mingxiang Wang"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/stu_wangmingxiang.png'>"
+excerpt: "1.2024年广西大学华谊奖学金（学院硕士唯一名额）  
+2.2024年广西大学学业一等奖学金<br/>
+<img src='/images/stu_wangmingxiang.png'>"
 collection: portfolio
 ---
 
