@@ -13,8 +13,8 @@ author_profile: ture
 {% endfor %}
  -->
 ---
-permalink: portfolio
-title: "Members"
-author_profile: false
+permalink: /portfolio/  
+title: "Members"  
+author_profile: false  
 ---
 
