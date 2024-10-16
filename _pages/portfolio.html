@@ -9,8 +9,9 @@ author_profile: ture
 
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <article class="archive__item">
+    {{ post.content }}
+  </article>
 {% endfor %}
-
 
 
