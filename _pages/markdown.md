@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Laboratory Display"
 author_profile: true
 redirect_from: 
   - /md/
