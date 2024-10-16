@@ -14,8 +14,8 @@ main:
   - title: "Laboratory style"
     url: /teaching/    
     
-  # - title: "Students"
-  #   url: /portfolio/
+  - title: "Students"
+    url: /portfolio/
         
   # - title: "Thesis"
   #   url: /year-archive/
