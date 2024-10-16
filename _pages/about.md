@@ -145,7 +145,7 @@ Academic part-time
 18.Member of the Editorial Board of *Symmetry* Journal  
 19.Reviewer for Journals: *Sensors and Actuators B: Chemical*, *IEEE Transactions on Instrumentation and Measurement*, *IEEE Sensor Journal*, *Scientific Reports*, *Journal of King Saud University-Computer and Information Sciences*, *International Journal for Light and Electron Optics*, *Sensing and Bio-sensing Research*, *Journal of Supercomputing*, *Journal of Personalized Medicine*, *Sensors*, *Sensor Review*, *CMIR*, *ASJ*, *International Journal of Food Engineering*, *Mathematics*, *Life*, *Shenyang University of Technology Journal*, *CAAI Transactions on Intelligence Technology*, *Heliyon*, *Journal of Computational Science*
 
-<img src="/0/images/stu_wangmingxiang.jpg" alt="Alt Text" />
+<img src="./images/stu_wangmingxiang.jpg" alt="Alt Text" />
 
 
 
