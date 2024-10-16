@@ -11,7 +11,7 @@ main:
   - title: "Team introduction"
     url: /talks/    
 
-  - title: "Laboratory style"
+  - title: "Laboratory"
     url: /teaching/    
     
   # - title: "Students"
@@ -23,5 +23,5 @@ main:
   # - title: "Projects"
   #   url: /cv/
     
-  - title: "Guide"
+  - title: "Laboratory style"
     url: /markdown/
