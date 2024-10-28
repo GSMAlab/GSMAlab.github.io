@@ -11,8 +11,8 @@ main:
   - title: "Laboratory style"
     url: /markdown/    
 
-  # - title: "publication"
-  #   url: /publications/
+  - title: "publication"
+    url: /publications/
 
   # - title: "Laboratory"
   #   url: /teaching/    
