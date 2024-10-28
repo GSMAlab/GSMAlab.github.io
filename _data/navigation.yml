@@ -14,16 +14,16 @@ main:
   - title: "publication"
     url: /publications/
 
-  # - title: "Laboratory"
-  #   url: /teaching/    
+  - title: "Laboratory"
+    url: /teaching/    
     
-  # - title: "Students"
-  #   url: /portfolio/
+  - title: "Students"
+    url: /portfolio/
         
-  # - title: "Thesis"
-  #   url: /year-archive/
+  - title: "Thesis"
+    url: /year-archive/
     
-  # - title: "Projects"
-  #   url: /cv/
+  - title: "Projects"
+    url: /cv/
     
 
