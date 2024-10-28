@@ -28,7 +28,9 @@ author_profile: false
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <article class="archive__item">
+    {{ post.content }}
+  </article>
   {% endfor %}
 {% endif %}
 
