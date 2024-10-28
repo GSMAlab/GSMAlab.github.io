@@ -14,7 +14,7 @@ main:
   - title: "publication"
     url: /publications/
 
- - title: "Thesis"
+  - title: "Thesis"
     url: /year-archive/
 
   # - title: "Laboratory"
