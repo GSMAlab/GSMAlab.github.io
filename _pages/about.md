@@ -132,33 +132,6 @@ Involved projects（参与的项目）
 
 Key Achievements（主要成就）
 ------
-**Thesis（论文）**  
-1.Gas sensor data processing (including: machine learning, deep learning, etc.) (气体传感器数据处理,包括：机器学习、深度学习等)  
-[1]Zhengyang Zhu, Haikui Ling, Yiyi Zhang, Jiefeng Liu, Feng Shuang, Min Xu, Pengfei Jia*, An empirical evaluation of meta residual network for classifying sensor drift samples, *Sensors & Actuators: B. Chemical* 416 (2024) 136057. DOI: 10.1016/j.snb.2024.136057  
-[2]Yanmei Zhang, Qingming Jiang, Min Xu, Yiyi Zhang, Jiefeng Liu, Pengfei Jia*, FTM-GCN: A novel technique for gas concentration predicting in space with sensor nodes, *Sensors & Actuators B Chemical*, 2024, 399, 134830. DOI: 10.1016/j.snb.2023.134830  
-[3]Xiaoyu Li, Qingming Jiang, Sen Ni, Yang Xu, Min Xu, Pengfei Jia*, An electronic nose for CO concentration prediction based on GL-TCN, *Sensors & Actuators B Chemical*, 2023, 387, 133821. DOI: 10.1016/j.snb.2023.133821  
-[4]Liwen Zeng, Yang Xu, Sen Ni, Min Xu, Pengfei Jia*, A mixed gas concentration regression prediction method for electronic nose based on two-channel TCN, *Sensors & Actuators B Chemical*, 2023, 382, 133528. DOI: 10.1016/j.snb.2023.133528.  
-[5]Sen Ni, Pengfei Jia*, Yang Xu, Liwen Zeng, Xiaoyu Li, Min Xu, Prediction of CO concentration in different conditions based on Gaussian-TCN, *Sensors & Actuators B Chemical*, 2023, 376, 133010. DOI: 10.1016/j.snb.2022.133010.  
-[6]Pengfei Jia, Fangzhou Meng, Huaisheng Cao, Shukai Duan, Xiaoyan Peng, Min Xu, Training technique of electronic nose using labeled and unlabeled samples based on multi-kernel LapSVM, *Sensors & Actuators B Chemical*, 2019, 294: 98-105. DOI: 10.1016/j.snb.2019.05.034.  
-[7]Hanxiao Luo, Pengfei Jia*, Siqi Qiao, Enhancing electronic nose performance based on a novel QPSO-RBM technique, *Sensors & Actuators B Chemical*, 2018, 259: 241-249. DOI: 10.1016/j.snb.2017.12.026.  
-[8]Xue Jiang, Pengfei Jia*, Rudan Luo, Bin Deng, Shukai Duan, Jia Yan, A novel electronic nose learning technique based on active learning: EQBC-RBFNN, *Sensors & Actuators B Chemical*, 2017, 249: 533-541. DOI: 10.1016/j.snb.2017.04.072.  
-[9]Pengfei Jia, Fengchun Tian, Qinghua He, Shu Fan, Junling Liu, Simon X. Yang, Feature extraction of wound infection data for electronic nose based on a novel weighted KPCA, *Sensors & Actuators B Chemical*, 2014, 201: 555-566. DOI: 10.1016/j.snb.2014.05.025.  
-[10]Huaisheng Cao, Pengfei Jia*, Duo Xu, Yuanjing Jiang, Siqi Qiao, Feature extraction of citrus Juice during storage for electronic nose based on cellular neural network, *IEEE Sensors Journal*, 2020, 20 (7): 3803-3812. DOI: 10.1109/JSEN.2019.2961135.  
-[11]Duo Xu, Pengfei Jia*, Huaisheng Cao, Wen Cao, Guocheng Wu, A novel technique solving shortages of low-concentration samples of electronic nose based on global and local features fusion, *IEEE Sensors Journal*, 2020, 20(19): 11412-11420. DOI: 10.1109/JSEN.2020.2998821.  
-[12]Pengfei Jia, Fengchun Tian, Shu Fan, Qinghua He, Jingwei Feng, Simon X. Yang, A novel sensor array and classifier optimization method of electronic nose based on enhanced quantum-behaved particle swarm optimization, *Sensor Review*, 2014, 34/3: 304-311. DOI: 10.1108/SR-02-2013-630.  
-[13]Guosheng Mao, Yanmei Zhang, Yang Xu, Xiaoyu Li, Min Xu, Yiyi Zhang, Pengfei Jia*, An electronic nose for harmful gas early detection based on a hybrid deep learning method H-CRNN, *Microchemical Journal*, 195 (2023) 109464. DOI: 10.1016/j.microc.2023.109464.  
-[14]Zhengyang Zhu, Qingming Jiang, Mingxiang Wang, Min Xu, Yiyi Zhang, Feng Shuang, Pengfei Jia*, A CO concentration prediction method for electronic nose based on TrellisNet with gated recurrent unit and dilated convolution, *Microchemical Journal*, 199 (2024):110014. DOI: 10.1016/j.microc.2024.110014.  
-
-
-2.Calculation of high-voltage insulating gas-sensitive materials(高电压绝缘气敏材料计算)   
-[1]Mingxiang Wang, Qingbin Zeng, Jianjun Cao, Dachang Chen, Yiyi Zhang, Jiefeng Liu, and Pengfei Jia*, Highly Sensitive Gas Sensor for Detection of Air Decomposition Pollutant (CO, NOx): Popular Metal Oxide (ZnO, TiO2)-Doped MoS2 Surface, *ACS Applied Materials & Interfaces*, 2024, 16, 3, 3674–3684. DOI: 10.1021/acsami.3c15103.  
-[2]Mingxiang Wang, Dachang Chen, Pengfei Jia*, Gas Sensitive Analysis of Composite MoS2(001) Surface to Air Discharge Products: A DFT Study, *IEEE Sensors Journal*. DOI: 10.1109/JSEN.2023.3305335.  
-[3]Mingxiang Wang, Jianjun Cao, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia*, Crn (n=1–4) clustered (8, 0) single-walled CNT: Comparison of gas-sensitive properties to air discharge pollutants (CO, NOx), *Surfaces and Interfaces*, 2024, 44, 103619. DOI: 10.1016/j.surfin.2023.103619.  
-[4]Mingxiang Wang, Dachang Chen, Pengfei Jia*, Adsorption and sensing performances of air decomposition components (CO, NOx) on Cr modified graphene surface, *Inorganic Chemistry Communications*, 157 (2023) 111447. DOI: 10.1016/j.inoche.2023.111447.  
-[5]Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia*, CoO-SnSe monolayer: A high potential candidate for SF6 characteristic decomposition gas adsorption and detection, *Colloids and Surfaces A: Physicochemical and Engineering Aspects*, 688 (2024) 133671. DOI: 10.1016/j.colsurfa.2024.133671.  
-[6]Pengfei Jia, Mingxiang Wang*, Changyou Ma, Dachang Chen, Yiyi Zhang, Jiefeng Liu, Quantum-level investigation of air decomposed pollutants gas sensor (Pd-modified g-C3N4) influenced by micro-water content, *Chemosphere*, 358 (2024) 142198. DOI: 10.1016/j.chemosphere.2024.142198.  
-[7]Pengfei Jia, Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Exploration of SF6 and its decomposed gases in adsorption and sensing (four modified WSe2 monolayers at quantum level), *Surfaces and Interfaces*, 51 (2024) 104606. DOI: 10.1016/j.surfin.2024.104606.
-
 **Book(著作)**  
 - 《机器嗅觉技术理论及应用》，陕西科技出版社，2022年7月  
 - 《玩转科技制作》，天津科学技术出版社，2018年12月   
