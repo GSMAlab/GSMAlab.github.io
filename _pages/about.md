@@ -70,7 +70,7 @@ If you do not have the above skills, but you think you have a strong learning ab
 
 Key Achievements（主要成就）
 ------
-**Book(著作)**  
+**Book（著作）**  
 - 《机器嗅觉技术理论及应用》，陕西科技出版社，2022年7月  
 - 《玩转科技制作》，天津科学技术出版社，2018年12月   
 - *Recent Advances in Machine Learning and Computational Intelligence*, Applied Science, April 2023  
