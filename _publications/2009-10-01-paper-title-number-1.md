@@ -1,6 +1,6 @@
 ---
 **Thesis（论文）**  
-1.Gas sensor data processing (including: machine learning, deep learning, etc.) (气体传感器数据处理,包括：机器学习、深度学习等)  
+**1.Gas sensor data processing (including: machine learning, deep learning, etc.) (气体传感器数据处理,包括：机器学习、深度学习等)**  
 [1]Zhengyang Zhu, Haikui Ling, Yiyi Zhang, Jiefeng Liu, Feng Shuang, Min Xu, Pengfei Jia, An empirical evaluation of meta residual network for classifying sensor drift samples, *Sensors & Actuators: B. Chemical 416 (2024) 136057. DOI: 10.1016/j.snb.2024.136057  
 [2]Yanmei Zhang, Qingming Jiang, Min Xu, Yiyi Zhang, Jiefeng Liu, Pengfei Jia, FTM-GCN: A novel technique for gas concentration predicting in space with sensor nodes, *Sensors & Actuators B Chemical, 2024, 399, 134830. DOI: 10.1016/j.snb.2023.134830  
 [3]Xiaoyu Li, Qingming Jiang, Sen Ni, Yang Xu, Min Xu, Pengfei Jia, An electronic nose for CO concentration prediction based on GL-TCN, *Sensors & Actuators B Chemical, 2023, 387, 133821. DOI: 10.1016/j.snb.2023.133821  
@@ -16,7 +16,7 @@
 [13]Guosheng Mao, Yanmei Zhang, Yang Xu, Xiaoyu Li, Min Xu, Yiyi Zhang, Pengfei Jia, An electronic nose for harmful gas early detection based on a hybrid deep learning method H-CRNN, *Microchemical Journal, 195 (2023) 109464. DOI: 10.1016/j.microc.2023.109464.  
 [14]Zhengyang Zhu, Qingming Jiang, Mingxiang Wang, Min Xu, Yiyi Zhang, Feng Shuang, Pengfei Jia, A CO concentration prediction method for electronic nose based on TrellisNet with gated recurrent unit and dilated convolution, *Microchemical Journal, 199 (2024):110014. DOI: 10.1016/j.microc.2024.110014.  
 
-2.Calculation of high-voltage insulating gas-sensitive materials(高电压绝缘气敏材料计算)  
+**2.Calculation of high-voltage insulating gas-sensitive materials(高电压绝缘气敏材料计算)**  
 [1]Mingxiang Wang, Qingbin Zeng, Jianjun Cao, Dachang Chen, Yiyi Zhang, Jiefeng Liu, and Pengfei Jia, Highly Sensitive Gas Sensor for Detection of Air Decomposition Pollutant (CO, NOx): Popular Metal Oxide (ZnO, TiO2)-Doped MoS2 Surface, *ACS Applied Materials & Interfaces, 2024, 16, 3, 3674–3684. DOI: 10.1021/acsami.3c15103.  
 [2]Mingxiang Wang, Dachang Chen, Pengfei Jia, Gas Sensitive Analysis of Composite MoS2(001) Surface to Air Discharge Products: A DFT Study, *IEEE Sensors Journal. DOI: 10.1109/JSEN.2023.3305335.  
 [3]Mingxiang Wang, Jianjun Cao, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia, Crn (n=1–4) clustered (8, 0) single-walled CNT: Comparison of gas-sensitive properties to air discharge pollutants (CO, NOx), *Surfaces and Interfaces, 2024, 44, 103619. DOI: 10.1016/j.surfin.2023.103619.  
