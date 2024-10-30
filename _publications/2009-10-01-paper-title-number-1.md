@@ -23,7 +23,9 @@
 [4]Mingxiang Wang, Dachang Chen, Pengfei Jia, Adsorption and sensing performances of air decomposition components (CO, NOx) on Cr modified graphene surface, *Inorganic Chemistry Communications, 157 (2023) 111447. DOI: 10.1016/j.inoche.2023.111447.  
 [5]Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Pengfei Jia, CoO-SnSe monolayer: A high potential candidate for SF6 characteristic decomposition gas adsorption and detection, *Colloids and Surfaces A: Physicochemical and Engineering Aspects, 688 (2024) 133671. DOI: 10.1016/j.colsurfa.2024.133671.  
 [6]Pengfei Jia, Mingxiang Wang, Changyou Ma, Dachang Chen, Yiyi Zhang, Jiefeng Liu, Quantum-level investigation of air decomposed pollutants gas sensor (Pd-modified g-C3N4) influenced by micro-water content, *Chemosphere, 358 (2024) 142198. DOI: 10.1016/j.chemosphere.2024.142198.  
-[7]Pengfei Jia, Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Exploration of SF6 and its decomposed gases in adsorption and sensing (four modified WSe2 monolayers at quantum level), Surfaces and Interfaces, 51 (2024) 104606. DOI: 10.1016/j.surfin.2024.104606.  
+[7]Pengfei Jia, Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Exploration of SF6 and its decomposed gases in adsorption and sensing (four modified WSe2 monolayers at quantum level), Surfaces and Interfaces, 51 (2024) 104606. DOI: 10.1016/j.surfin.2024.104606.   
+[8]Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Pengfei Jia, Gas sensitivity evaluation of decomposition gases in environmentally friendly insulating devices (C4F7N/CO2) (Chromium cluster-modified BNNTs surface interface at the atomic scale), Surfaces and Interfaces 54 (2024) 105202. DOI: 10.1016/j.surfin.2024.105202.  
+[9]Qingbin Zeng, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Dachang Chen, Min Xu, Pengfei Jia, Gas sensitivity research of transition metal (Fe, Zr, Ta, Tc) doped boron nitride nanosheets to indoor toxic gases (CH2O, NH3, Benzene): A DFT perspective, Surfaces and Interfaces 52 (2024) 104837. DOI: 10.1016/j.surfin.2024.104837.  
 
 ------
 **Patent（专利）**  
