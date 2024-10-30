@@ -26,11 +26,6 @@
 [7]Pengfei Jia, Jianjun Cao, Mingxiang Wang, Yiyi Zhang, Jiefeng Liu, Min Xu, Dachang Chen, Exploration of SF6 and its decomposed gases in adsorption and sensing (four modified WSe2 monolayers at quantum level), Surfaces and Interfaces, 51 (2024) 104606. DOI: 10.1016/j.surfin.2024.104606.  
 
 ------
-**monograph（专著）**  
-- 《机器嗅觉技术理论及应用》，陕西科技出版社，2022年7月  
-- 《玩转科技制作》，天津科学技术出版社，2018年12月   
-- *Recent Advances in Machine Learning and Computational Intelligence*, Applied Science, April 2023  
-
 **Patent（专利）**  
 [1]Supervised Explicit Manifold Learning Algorithm-Based Data Mining Method for Electronic Nose, Patent No.: 2012103825859  
 [2]Electronic Nose Parameter Synchronization Optimization Algorithm Based on Improved Quantum Particle Swarm Algorithm, Patent No.: 2015100140514  
@@ -54,3 +49,8 @@
 [9]一种基于移动窗函数的电子鼻特征提取方法，专利号：2015102522617  
 [10]基于混合特征矩阵的电子鼻信号处理方法，专利号：2014105219439  
 [11]基于全局和局部融合特征提取的电子鼻低浓度样本检测方法，专利号：2019104143488  
+
+**monograph（专著）**  
+- 《机器嗅觉技术理论及应用》，陕西科技出版社，2022年7月  
+- 《玩转科技制作》，天津科学技术出版社，2018年12月   
+- *Recent Advances in Machine Learning and Computational Intelligence*, Applied Science, April 2023  
